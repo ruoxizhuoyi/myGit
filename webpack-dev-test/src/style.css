@@ -1,5 +1,6 @@
 body,ul { 
     margin:0; padding:0;
+    background: red;
 }  
 .concent { 
     width:100%; 
